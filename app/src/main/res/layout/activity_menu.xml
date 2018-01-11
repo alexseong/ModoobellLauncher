@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#40000000"
+    tools:context="com.modoobel.modoobelllauncher.MenuActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/btn_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_circle"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/menu_button_1_01"
+            android:onClick="clkMenuButton"
+            />
+
+        <LinearLayout
+            android:id="@+id/btn_notice"
+            android:orientation="horizontal"
+            android:layout_below="@+id/btn_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:onClick="clkMenuButton"
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_button_1_00"
+                 />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:text="@string/menu_notice"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/btn_auto_response"
+            android:orientation="horizontal"
+            android:layout_below="@+id/btn_notice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:onClick="clkMenuButton"
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_button_9_00"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:text="@string/menu_auto_response"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_history"
+            android:orientation="horizontal"
+            android:layout_below="@+id/btn_auto_response"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:onClick="clkMenuButton"
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_button_9_02"
+                android:onClick="clkMenuButton"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:text="@string/menu_history"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/btn_add_device"
+            android:orientation="horizontal"
+            android:layout_below="@+id/btn_history"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:onClick="clkMenuButton"
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_button_9_03"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:text="@string/menu_add_device"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.modoobel.modoobelllauncher.MainActivity">
+
+
+
+
+    <RelativeLayout
+        android:id="@+id/video_layout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        >
+
+        <ImageView
+            android:id="@+id/iv_movie_bg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/movie_bg"
+
+            />
+
+
+        <ImageButton
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:onClick="clkMenu"
+            android:src="@drawable/ic_menu"
+            />
+
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/func_btn_set"
+        android:layout_below="@+id/video_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <com.modoobel.modoobelllauncher.custom_obj.MainFuncButton
+            android:id="@+id/btn_mic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:main_btn_icon="@drawable/icon_phone_02"
+            app:main_btn_title="@string/main_btn_title_mic"
+            android:layout_marginLeft="@dimen/func_btn_main_margin"
+            android:layout_marginTop="@dimen/func_btn_main_margin"
+            android:layout_marginBottom="@dimen/func_btn_main_margin"
+            android:clickable="true"
+            android:onClick="clkFunc"
+            />
+
+        <com.modoobel.modoobelllauncher.custom_obj.MainFuncButton
+            android:id="@+id/btn_speaker"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:main_btn_icon="@drawable/icon_phone_03"
+            app:main_btn_title="@string/main_btn_title_speaker"
+            android:layout_marginRight="@dimen/func_btn_to_btn_margin"
+            android:layout_marginLeft="@dimen/func_btn_to_btn_margin"
+            android:layout_marginTop="@dimen/func_btn_main_margin"
+            android:layout_marginBottom="@dimen/func_btn_main_margin"
+            android:clickable="true"
+            android:onClick="clkFunc"
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dddddd"
+            android:layout_marginRight="@dimen/func_btn_main_margin"
+            android:layout_marginTop="@dimen/func_btn_main_margin"
+            android:layout_marginBottom="@dimen/func_btn_main_margin"
+            android:paddingLeft="@dimen/func_btn_main_margin"
+            android:paddingRight="@dimen/func_btn_main_margin"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="응대모드"
+                android:textColor="#333333"
+                android:layout_alignParentLeft="true"
+                android:layout_toLeftOf="@+id/iv_auto_response"
+                />
+
+            <ImageView
+                android:id="@+id/iv_auto_response"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/btn_manual"
+                android:layout_alignParentRight="true"
+                />
+
+
+        </RelativeLayout>
+
+
+
+
+    </LinearLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list_view"
+        android:layout_below="@+id/func_btn_set"
+        android:layout_above="@+id/input_btn_set"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <ImageView
+        android:id="@+id/iv_chat_bg"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/func_btn_set"
+        android:layout_above="@+id/input_btn_set"
+        android:layout_height="match_parent"
+        android:src="@drawable/chat_bg"
+
+        />
+
+
+    <com.modoobel.modoobelllauncher.custom_obj.InputButtonSet
+        android:id="@+id/input_btn_set"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+
+        />
+
+
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

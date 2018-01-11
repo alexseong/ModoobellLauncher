@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.4.0_7b6c798e71e3b2b4e213b8bf39a6772b7bcfeffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_93763da49e0c3234761830c0c16101ff1d9b5ff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_4d848f0c2b2c019c9c22970756f0cb36ffa65ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_5c70b3c92c92eeab22df067dc92661ae88814a95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1c3a46730927f0f2dabd97ddbea2fcb7d8bcc884">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_85a350e6a31c21f66528f8c3c3d15c18eb69fc90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="635a8738c2b638c7020c13b2ebfc50e307213b30">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_41596a9dcbc8641123e19ae378106650f765f2d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_c1c07c2c63e528c5e6f31c4cf03ba2e3d255577a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_af597681a10360b0bd2f9f97e0f7ebc61df3bdb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/libs/sktplayrtc-client.2.2.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cbb9f2b174302cdfc6206fae3156b5e84b55a3d0">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/2/sktplayrtc-client.2.2.9_b9bc8124a77f534c744fe41bdbacc9972d0533e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_41dabe3003e1c49d2983c3b78cba3cc2091affbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_b6d4a6715a20a3d465af4d499e2907a21a02b6ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_f63bfeed8ca8b488aece79a2d955ae7ea14f5dfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.15/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef01b734d9d89338a932928c237c7b741f007af">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.15_a483da3b65aacf118d8fe22f12146df6eb28bbf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_0e5e70bbe4053429f2a382075bf3b25bfbdee442/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_95c6cb7d32d877a046e89cffefa6b751ea030379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7780b9aba418f4e22878f48cd77372a7688bb0b7">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.6_db33394961a0e5761fda9e74ed32e859b85901d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_04d3a1c89f3c9a735d4ff1ffcc4fc50d3caebd02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_63cbc79c88ab951caac072385e251a4efd0b81e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.11/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cfa40983f47c1b9a9f2ac940ee6da130cd03c6e1">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.11_604c4d46febf77c34cbad5be1ae8780e5f16d62b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_e50870bc618d0c9ed5cf028a7da24d0b79718737/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_e76ae49a783a912fa352e6d60dbb93672cffb1b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.15/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4803488041c259d0b6d81ca4255379ab8a7e8dfe">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.15_243b0900e87381375ad7351017ff88ea7db1087c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_4bc59316639a9402fdc7dd654c71ae81fe702cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a76b07a416089228adc86fecc86d0a6e2d71e409">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.3_daaeae802733e6fc3590a9d058e848acf668e64d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_2023ebc84099aa98d727335f86ccb9160c72737e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_639fa2c79a93350716f2a40e8e4e49b51dde5b9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_97316f7a37d0f3e48ec7bdcc62259a9e956fe7f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_e7fc1c9622639636211090b668939a43d6dd991e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_cd2f59b1e76442002f53f7f9a31b8eb139a8d598/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_2758d94eb12c47c2043c4ea7bc07ae7b0d685034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_1e680173ec09586ea00f776013ad98609edfb5ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_e697f94cd5a0a2ef26b66ae741c96dd2ec344420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/libs/libjingle_peerconnection_r15011.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bdbb22cec0032c8e6ec49ae3e0ebfe04de29c746">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/2/libjingle_peerconnection_r15011_4cd6dc8d8e6d867b523d244030278e39a1900396/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_cb958d555a4c3cf06a2fb0e9f363342e819b15a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_4d5db260460d68a535a158db868a2163e9f1fed3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_72ac3fd5643bb97cdfc45968f25108736ccb2faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luckyleeis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/luckyleeis/Projects/ModoobellLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_90eda01c919070fc7d4261c507ac44e10fb39e88/classes.dex" />
+    </item>
+
+</items>

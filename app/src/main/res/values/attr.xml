@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="main_func_button">
+        <attr name="main_btn_icon" format="reference|integer" />
+        <attr name="main_btn_title" format="reference|string" />
+    </declare-styleable>
+
+</resources>

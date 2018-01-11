@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_more_action"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="#20000000"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.modoobel.modoobelllauncher.MoreActionActivity"
+    android:gravity="right"
+    >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/btn_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_circle"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/float_button_1_01"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_more"
+            android:layout_above="@+id/btn_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_circle"
+            android:background="@drawable/float_button_1_02"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_centerHorizontal="true"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_above="@+id/btn_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_circle"
+            android:background="@drawable/float_button_1_03"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_centerHorizontal="true"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_dialog_close"
+            android:layout_above="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_circle"
+            android:background="@drawable/float_button_1_04"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_centerHorizontal="true"
+            />
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+</RelativeLayout>
